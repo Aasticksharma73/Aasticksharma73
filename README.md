@@ -1,9 +1,10 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://www.google.com/imgres?imgurl=https%3A%2F%2Fcamo.githubusercontent.com%2F69a64c1db5c749cbf9b3cb40c1248ebdc6f6b7788b2d008506910a088af92ecd%2F68747470733a2f2f70726576696577732e31323372662e636f6d2f696d616765732f6b617270656e6b6f696c69612f6b617270656e6b6f696c6961313830362f6b617270656e6b6f696c69613138303630303031312f3130323938383830362d766563746f722d6c696e652d7765622d636f6e636570742d666f722d70726f6772616d6d696e672d6c696e6561722d7765622d62616e6e65722d666f722d636f64696e672d2e6a7067&tbnid=dn7igWw0CILxSM&vet=12ahUKEwjY0bzN28r-AhWfEbcAHZNeByQQMygEegUIARDFAQ..i&imgrefurl=https%3A%2F%2Fgithub.com%2Fkshivakumar27&docid=MsBcy9nWXO7qMM&w=1300&h=515&q=coding%20banners%20for%20github%20images&ved=2ahUKEwjY0bzN28r-AhWfEbcAHZNeByQQMygEegUIARDFAQ)](https.github.com/Aasticksharma73)
 
 <h1 align="center">Hi 👋, I'm Aastick Sharma</h1>
 <h3 align="center">A passionate Software developer from India</h3>
- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...
-">
+ <img align="right" alt="Coding" width="400" src="  https://www.google.com/imgres?imgurl=https%3A%2F%2Fmir-s3-cdn-cf.behance.net%2Fproject_modules%2Fmax_1200%2F06f21a161921919.63cd7887d0a70.gif&tbnid=fxK5tONPokeGrM&vet=12ahUKEwiuq8OJ1cr-AhXcEbcAHRIWDG0QMygRegUIARC_Ag..i&imgrefurl=https%3A%2F%2Fwww.behance.net%2Fgallery%2F161921919%2FPortrait-animated-gif%3Ftracking_source%3Dsearch_projects%257Canimated%2Bportrait&docid=ryslkesAXm4-1M&w=1000&h=756&q=animated%20coding%20gif&ved=2ahUKEwiuq8OJ1cr-AhXcEbcAHRIWDG0QMygRegUIARC_Ag">
+
+
 
 
 
